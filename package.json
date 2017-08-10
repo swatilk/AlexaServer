@@ -1,0 +1,20 @@
+{
+  "name": "alexa-skill",
+  "version": "1.0.0",
+  "description": "creating a test skill for alexa",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[Dhttps://github.com/swatilk/AlexaServer.git"
+  },
+  "author": "Swati Kamtar",
+  "license": "ISC"
+}
